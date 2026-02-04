@@ -1,3 +1,3 @@
 # Real World QA Automation Project
 
-Full-stack QA framework: UI, API, Grid, Docker, CI, Performance.
+Full-stack QA framework: UI, API, Grid, Docker, CI, Performance.2
