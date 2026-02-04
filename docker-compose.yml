@@ -1,0 +1,6 @@
+version: '3'
+services:
+  chrome:
+    image: selenium/standalone-chrome
+  firefox:
+    image: selenium/standalone-firefox

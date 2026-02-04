@@ -1,0 +1,1 @@
+Smoke, Sanity, Regression, UAT, Negative, Edge cases explained
