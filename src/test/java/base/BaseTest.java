@@ -1,4 +1,4 @@
-package tests;
+package tests.ui;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -23,4 +23,3 @@ public class BaseTest {
         }
     }
 }
-// Grid + Driver Factory
