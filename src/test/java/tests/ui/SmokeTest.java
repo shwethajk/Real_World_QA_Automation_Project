@@ -1,9 +1,9 @@
-package tests;
+package tests.ui;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class SmokeTests extends BaseTest {
+public class SmokeTest extends BaseTest {
 
     @Test
     public void verifyPageTitle() {
@@ -11,4 +11,3 @@ public class SmokeTests extends BaseTest {
         Assert.assertTrue(title.length() > 0, "Title should not be empty");
     }
 }
-// Smoke UI tests
