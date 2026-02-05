@@ -1,9 +1,9 @@
-package tests;
+package tests.ui;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class RegressionTests extends BaseTest {
+public class RegressionTest extends BaseTest {
 
     @Test
     public void verifyCurrentUrl() {
@@ -11,4 +11,3 @@ public class RegressionTests extends BaseTest {
         Assert.assertTrue(url.contains("example"), "URL validation failed");
     }
 }
-// Regression UI tests
