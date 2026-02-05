@@ -2,13 +2,13 @@
 <suite name="QA_Automation_Suite">
     <test name="SmokeTests">
         <classes>
-            <class name="tests.SmokeTests"/>
+            <class name="tests.ui.SmokeTest"/>
         </classes>
     </test>
 
     <test name="RegressionTests">
         <classes>
-            <class name="tests.RegressionTests"/>
+            <class name="tests.ui.RegressionTest"/>
         </classes>
     </test>
 </suite>
